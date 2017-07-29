@@ -10,9 +10,12 @@
   "author": "Karan Sharma",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
     "ejs": "^2.5.6",
     "express": "^4.15.3",
     "express-handlebars": "^3.0.0",
+    "express-session": "^1.15.4",
     "gulp": "^3.9.1",
     "gulp-inject": "^4.2.0",
     "gulp-jscs": "^4.0.0",
@@ -23,6 +26,8 @@
     "jshint-stylish": "^2.2.1",
     "mongodb": "^2.2.30",
     "mssql": "^4.0.4",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
     "wiredep": "^4.0.0"
   }
 }
