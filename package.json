@@ -21,6 +21,7 @@
     "gulp-jscs": "^4.0.0",
     "gulp-jshint": "^2.0.4",
     "gulp-nodemon": "^2.2.1",
+    "http": "0.0.0",
     "jade": "^1.11.0",
     "jshint": "^2.9.5",
     "jshint-stylish": "^2.2.1",
@@ -28,6 +29,7 @@
     "mssql": "^4.0.4",
     "passport": "^0.3.2",
     "passport-local": "^1.0.0",
-    "wiredep": "^4.0.0"
+    "wiredep": "^4.0.0",
+    "xml2js": "^0.4.17"
   }
 }
